@@ -4,6 +4,6 @@ Utility for creating, accessing, and managing custom namespaces in Common Lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/phoe/in-nomine.git |
-| commit  | 8dff294                                   |
+| commit  | 16cb82a                                   |
 | systems | in-nomine                                 |
 |---------+-------------------------------------------|
